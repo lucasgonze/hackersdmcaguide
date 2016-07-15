@@ -2,13 +2,14 @@
 
 Developers have a hard time getting clear and simple guidance on how to handle copyright infringement notices.
 
-In some ways this is justified, because the law is complex and unclear. But many aspects of the law are simple enough. And anyway, developers must simplify. They can't hire a lawyer for every little bit of noise that comes through.  Lawyers don't want to summarize because that's just not what they do. But developers must summarize.
+In some ways this is justified, because the law is complex and unclear. But many aspects of the law are simple enough, and anyway, developers don't have a choice about whether to simplify. They can't hire a lawyer for every little bit of noise that comes through. If lawyers can't write clear and simple instructions, the hackers must do it for themselves.
 
-If lawyers can't write clear and simple instructions, the hackers must do it for themselves.
+Improvements to this document are welcome. It is on Github for a reason.
 
 Warnings:
-1. These instructions are for small informal projects with little infringement
-2. No lawyers wrote this. This is not legal advice. 
+
+1.  These instructions are for informal projects with little infringement
+2.   No lawyers wrote this. This is not legal advice. 
 
 ## How-To
 
@@ -36,6 +37,7 @@ Warnings:
 ### When a Complaint Arrives
 
 When a notice of alleged infringement arrives from the copyright owner or their agent, via email, snail mail, or fax...
+
 1.  Verify that all required fields (see "Required fields for notices of alleged infringement") are filled in and the values make sense. If not, reject the notification.
 2.  Verify that the request contains enough information to figure out where in the web site (or app) the alleged infringement is occurring. If not, reject the notificaiton.
 3.  Disable access to the content. Take care to not damage it in a way that prevents you from re-enabling access..
@@ -56,4 +58,5 @@ When a counter-notice arrives from the user/uploader, inbound via email, snail m
 ### Ten-Day Timer
 
 When the ten-day timer goes off...
+
 1.  Verify that you have not received a notice that the copyright owner has filed a lawsuit. If not, put back the content and (if you haven't already) decrement your repeat infringement counter.
