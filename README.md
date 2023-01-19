@@ -8,8 +8,8 @@ Improvements to this document are welcome. It is on Github for a reason.
 
 Warnings:
 
-1.  These instructions are for informal projects with little infringement
-2.   No lawyers wrote this. This is not legal advice. 
+1.  These instructions are for informal projects with little infringement. If you are deliberately getting into a hot area, you need a lawyer ASAP.
+2.  No lawyers wrote this. This is not legal advice. (I am just a developer who has read [17 U.S. Code § 512 - Limitations on liability relating to material online ](https://www.law.cornell.edu/uscode/text/17/512) with care).
 
 ## How-To
 
